@@ -3,3 +3,9 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on NFT projects
 - 📫 You can reach me on: discord.gg/nTaA8Gdywd
+
+- References:
+- https://rabbithole.social/
+- https://pixelcheekz.com/
+- https://etherealcollective.io/
+- https://worldofkitties.com/
