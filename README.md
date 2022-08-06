@@ -1,3 +1,4 @@
+![NFTeam.eu](https://i.imgur.com/jPIbfO5.png)
 - 👋 Hi, I’m @kisbalazspatrik
 - 👀 I’m interested in Crypto, Blockchain, NFTs
 - 🌱 I’m currently learning everything
