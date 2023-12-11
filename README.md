@@ -1,6 +1,9 @@
-![NFTeam.eu](https://i.imgur.com/HPJiLL5.png)
-👨‍💻 I am a frontend developer with over 4 years of experience in software engineering. My focus is on frontend technologies like NextJS and ReactJS, and I am always striving to design intuitive and user-friendly interfaces for my clients and users.
+![NFTeam.eu](https://i.imgur.com/J2uNQmX.png)
 
-💼 In addition to my frontend expertise, I am also the CEO and Founder of <a href="https://nfteam.eu" target="_b">NFTeam</a>, a business that specializes in blockchain and software development. Through my work at NFTeam, I have gained valuable experience in managing a team of developers and staying up-to-date with the latest developments in my field.
+👨‍💻 As a **Frontend Wizard** with a focus on frontend technologies, I bring over 4 years of experience to the table. My expertise lies in creating intuitive, user-friendly interfaces using NextJS and ReactJS, ensuring a seamless experience for clients and users.
 
-🚀 I am passionate about developing cutting-edge and useful solutions for my clients and users, leveraging my knowledge and expertise to deliver high-quality results. Thank you for taking the time to view my profile, and I look forward to working with you in the future!
+💼 Beyond my role in frontend development, I hold the position of CEO and Founder at <a href="https://nfteam.eu" target="_b">NFTeam</a>, where we delve into blockchain and software development. This experience has honed my skills in team management and kept me abreast of the latest industry trends.
+
+📈 Driven by a passion for crafting innovative and practical solutions, I leverage my skills to produce high-quality results for my clients and users.
+
+🚀 **Ready to elevate your digital presence?** Let's connect and set new benchmarks in the digital world! Thank you for considering my profile. I'm looking forward to our journey together. 🌌🌟
