@@ -1,6 +1,6 @@
 ![NFTeam.eu](https://i.imgur.com/J2uNQmX.png)
 
-👨‍💼 As the **CEO and Founder** of [NFTeam](https://nfteam.eu), I lead a dynamic team at the forefront of blockchain and software development. In addition to NFTeam, I oversee several other companies in various fields, each dedicated to pushing the boundaries of innovation and excellence.
+👨‍💼 As the **Founder** of [NFTeam](https://nfteam.eu), I lead a dynamic team at the forefront of blockchain and software development. In addition to NFTeam, I oversee several other companies in various fields, each dedicated to pushing the boundaries of innovation and excellence.
 
 💻 With a strong foundation in frontend technologies, I bring a comprehensive perspective to every project. I focus on ensuring that our companies deliver exceptional results that meet and exceed client expectations.
 
